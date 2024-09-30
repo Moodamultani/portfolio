@@ -1,6 +1,6 @@
 # Data science/machine learning portfolio
 ## Profile
-Hi, I am an experienced software engineering researcher in semantic information architecture. Currently, my interest is in the fantastic subject area of data science/machine learning and its applications in business context. My hobbies include international relations, cricket, badminton and reading, and care for the differently abled individuals.
+Hi, I am an experienced software engineering researcher in semantic information architecture. Currently, my interest is in the fantastic subject area of data science/machine learning and its applications in business context. My hobbies include reading international relations, badminton, cricket and care for the differently abled individuals.
 
 <a href="#Projects" >Projects</a>   <a href="#Education" >Education</a>    <a href="#WorkExperience" >Work Experience</a>    <a href="#Publications" >Publications</a>
 
@@ -31,7 +31,9 @@ Research in Guassian Numerical Integration formulae and optimisation of object-o
 
 Robotics, managed a student project in C++ that developed a 3D graphical interface to simulate the function of end-effector of a robotic manipulator, 1996-99.
 
-Developed a <b>backpropagation neural network (BPNN)</b> with stochastic gradient descent as the optimiser in C language - applied to handwritten recognition - 1993-95.
+Developed a <b>backpropagation neural network (BPNN)</b> with stochastic gradient descent as the optimiser in C language - applied to handwritten character recognition, 1993-95.
+
+Teaching of postgraduate subjects of Systems Programming, Numerical Analysis and Mathematica programming, 1991-95.
 
 One-to-one Teaching of Mathematics (and later computer science) at GCSE, Advanced Levels and university students of programming, 1979-present.
 
