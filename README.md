@@ -31,7 +31,7 @@ Research in Guassian Numerical Integration formulae and optimisation of object-o
 
 Robotics, managed a student project in C++ that developed a 3D graphical interface to simulate the function of end-effector of a robotic manipulator, 1996-99.
 
-Developed the first <b>backpropagation neural network (BPNN)</b> with stochastic gradient descent as the optimiser in C language - applied to handwritten recognition - 1993-95.
+Developed a <b>backpropagation neural network (BPNN)</b> with stochastic gradient descent as the optimiser in C language - applied to handwritten recognition - 1993-95.
 
 One-to-one Teaching of Mathematics (and later computer science) at GCSE, Advanced Levels and university students of programming, 1979-present.
 
