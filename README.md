@@ -1,6 +1,6 @@
 # Data science/machine learning portfolio
 ## Profile
-Hi, I am an experienced software engineering researcher in semantic information architecture. Currently, my interest is in the fantastic subject area of data science/machine learning amd its application in business context. My hobbies include international relations, cricket, badminton and reading.
+Hi, I am an experienced software engineering researcher in semantic information architecture. Currently, my interest is in the fantastic subject area of data science/machine learning and its applications in business context. My hobbies include international relations, cricket, badminton and reading, and care for the differently abled individuals.
 
 <a href="#Projects" >Projects</a>   <a href="#Education" >Education</a>    <a href="#WorkExperience" >Work Experience</a>    <a href="#Publications" >Publications</a>
 
