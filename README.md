@@ -5,14 +5,14 @@ Hi, I am an experienced software engineering researcher in semantic information 
 <a href="#Projects" >Projects</a>   <a href="#Education" >Education</a>    <a href="#WorkExperience" >Work Experience</a>    <a href="#Publications" >Publications</a>
 
 ### Projects
-<a href= "#Anomaly detection" >1. Detecting the anomalous activity of a Ship’s Engine</a><br>
-<a href= "Data Segmentation using Clustering" >2. Customer Segmentation with Clustering</a><br>
-<a href= "Supervised Learning" >3. Applying Supervised Learning to Predict Student Dropout</a><br> 
-<a href= "Topic Modelling" >4. Applying natural language programming (NLP) for Topic Modelling in a Real-life Context</a><br>
-<a href= "Time Series Analysis" >5. Using Time Series Analysis for Sales and Demand Forecasting</a><br>
+<a href= "#Anomaly detection" >1. Detecting the anomalous activity of a ship’s engine</a><br>
+<a href= "Data Segmentation using Clustering" >2. Customer segmentation with clustering</a><br>
+<a href= "Supervised Learning" >3. Applying supervised learning to predict student dropout</a><br> 
+<a href= "Topic Modelling" >4. Applying natural language programming (NLP) for topic modelling in a real-life context</a><br>
+<a href= "Time Series Analysis" >5. Using time series analysis for sales and demand forecasting</a><br>
 
 ### Employer Project with Bank of England
-<a href= "Extracting Sentiment and Risks from public financial documents" >AI-Driven Risk Insights from Public Financial Disclosures</a><br>
+<a href= "Extracting sentiment and risks from public financial documents" >AI-Driven Risk Insights from Public Financial Disclosures</a><br>
 
 ### Education
 
