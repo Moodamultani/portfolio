@@ -5,6 +5,14 @@ Hi, I am an experienced software engineering researcher in semantic information 
 <a href="#Projects" >Projects</a>   <a href="#Education" >Education</a>    <a href="#WorkExperience" >Work Experience</a>    <a href="#Publications" >Publications</a>
 
 ### Projects
+<a href= "#Anomaly detection" >1. Detecting the anomalous activity of a Ship’s Engine</a><br>
+<a href= "Data Segmentation using Clustering" >2. Customer Segmentation with Clustering</a><br>
+<a href= "Supervised Learning" >3. Applying Supervised Learning to Predict Student Dropout</a><br> 
+<a href= "Topic Modelling" >4. Applying natural language programming (NLP) for Topic Modelling in a Real-life Context</a><br>
+<a href= "Time Series Analysis" >5. Using Time Series Analysis for Sales and Demand Forecasting</a><br>
+
+### Employer Project with Bank of England
+<a href= "Extracting Sentiment and Risks from public financial documents" >AI-Driven Risk Insights from Public Financial Disclosures</a><br>
 
 ### Education
 
