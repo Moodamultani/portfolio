@@ -7,7 +7,7 @@ Hi, I am an experienced software engineering researcher. My current interest is 
 ## Projects
 <body>
 <h3>1. Detecting the anomalous activity of a ship’s engine.</h3>
-<a href= "www.moodamultani.github.io/portfolio/AnomalyDetection/"></a> This project focused on the topic of Anomaly Detection in data science with an example dataset of a faulty ship engine.<br>
+<a href= "The jupyter notebook">https://github.com/Moodamultani/portfolio/tree/root/AnomalyDetection/anomaly-detection-project.ipynb</a> This project focused on the topic of Anomaly Detection in data science with an example dataset of a faulty ship engine.<br>
 </body>
 <a href= "Data Segmentation using Clustering" >2. Customer segmentation with clustering</a><br>
 <a href= "Supervised Learning" >3. Applying supervised learning to predict student dropout</a><br> 
