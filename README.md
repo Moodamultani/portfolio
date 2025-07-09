@@ -9,13 +9,19 @@ Hi, I am an experienced software engineering researcher. My current interest is 
 
 ## Projects in DS/ML
 <body>
-<h3>1. Detecting the anomalous activity of a ship’s engine.</h3>
+<h3>1. Detecting the anomalous activity of a ship’s engine</h3>
 This project focused on the topic of Anomaly Detection in data science with an example dataset of a faulty ship engine.<br>
 <a href= "/AnomalyDetection/anomaly-detection-project.ipynb">Jupyter notebook</a><br>
 <a href= "/AnomalyDetection/anomaly-detection-project-report.pdf">Project report</a>
 </body>
 
-<a href= "Data Segmentation using Clustering" >2. Customer segmentation with clustering</a><br>
+<body>
+<h3> 2. Customer segmentation with clustering</h3>
+This project focused on segmentation techniques with an example of a customer dataset.<br>
+<a href= "/ClusteringTechniques/customer-segmentation-project.ipynb">Jupyter notebook</a><br>
+<a href= "/ClusteringTechniques/customer-segmentation-project-report.pdf">Project report</a>
+</body>
+
 <a href= "Supervised Learning" >3. Applying supervised learning to predict student dropout</a><br> 
 <a href= "Topic Modelling" >4. Applying natural language programming (NLP) for topic modelling in a real-life context</a><br>
 <a href= "Time Series Analysis" >5. Using time series analysis for sales and demand forecasting</a><br>
@@ -23,7 +29,7 @@ This project focused on the topic of Anomaly Detection in data science with an e
 ### Employer Project with Bank of England
 <a href= "Extracting sentiment and risks from public financial documents" >AI-Driven Risk Insights from Public Financial Disclosures</a><br>
 
-### Education
+## Education
 
 Semantic Information Management, PhD (2016, University of the West of England, Bristol, UK)
 
