@@ -2,15 +2,19 @@
 ## Profile
 Hi, I am an experienced software engineering researcher. My current interest is in the fantastic subject area of data science/machine learning and its applications in business context. My doctoral research was in semantically deriving enterprise information architecture from Riva-based semantic business process architecture. My hobbies include reading international relations, badminton, cricket and care for the differently abled individuals.
 
-<a href="#Projects" >Projects</a>   <a href="#Education" >Education</a>    <a href="#WorkExperience" >Work Experience</a>    <a href="#Publications" >Publications</a>
+<a href="#Projects" >Projects in DS/ML</a><br>
+<a href="#Education" >Education</a><br>
+<a href="#WorkExperience" >Work Experience</a><br>
+<a href="#Publications" >Publications</a>
 
-## Projects
+## Projects in DS/ML
 <body>
 <h3>1. Detecting the anomalous activity of a ship’s engine.</h3>
 This project focused on the topic of Anomaly Detection in data science with an example dataset of a faulty ship engine.<br>
 <a href= "/AnomalyDetection/anomaly-detection-project.ipynb">Jupyter notebook</a><br>
 <a href= "/AnomalyDetection/anomaly-detection-project-report.pdf">Project report</a>
 </body>
+
 <a href= "Data Segmentation using Clustering" >2. Customer segmentation with clustering</a><br>
 <a href= "Supervised Learning" >3. Applying supervised learning to predict student dropout</a><br> 
 <a href= "Topic Modelling" >4. Applying natural language programming (NLP) for topic modelling in a real-life context</a><br>
