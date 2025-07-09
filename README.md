@@ -8,7 +8,8 @@ Hi, I am an experienced software engineering researcher. My current interest is 
 <body>
 <h3>1. Detecting the anomalous activity of a ship’s engine.</h3>
 This project focused on the topic of Anomaly Detection in data science with an example dataset of a faulty ship engine.<br>
-<a href= "anomaly-detection-project.ipynb" target="https://github.com/Moodamultani/portfolio/tree/root/AnomalyDetection/anomaly-detection-project.ipynb"></a> 
+<a href= "/AnomalyDetection/anomaly-detection-project.ipynb">Jupyter notebook</a> 
+<a href= "/AnomalyDetection/anomaly-detection-project-report.pdf">Project report</a>
 </body>
 <a href= "Data Segmentation using Clustering" >2. Customer segmentation with clustering</a><br>
 <a href= "Supervised Learning" >3. Applying supervised learning to predict student dropout</a><br> 
