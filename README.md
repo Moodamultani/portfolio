@@ -7,14 +7,14 @@ Hi, I am an experienced software engineering researcher. My current interest is 
 <a href="#WorkExperience" >Work Experience</a><br>
 <a href="#Publications" >Publications</a>
 
-## Projects in DS/ML
+## Projects in DS/ML with University of Cambridge ICE
 <body>
 <h3>1. Detecting the anomalous activity of a ship’s engine</h3>
-This project focused on the topic of Anomaly Detection in data science with an example dataset of a faulty ship engine.<br>
+This project focused on the topic of Anomaly Detection in data science with an example dataset of a faulty ship engine.<br><br>
 <a href= "https://github.com/Moodamultani/portfolio/tree/root/AnomalyDetection/anomaly-detection-project.ipynb">Jupyter notebook</a><br>
 <a href= "https://github.com/Moodamultani/portfolio/tree/root/AnomalyDetection/anomaly-detection-project-report.pdf">Project report</a>
 </body>
-
+<br>
 <body>
 <h3> 2. Customer segmentation with clustering</h3>
 This project focused on segmentation techniques with an example of a customer dataset.<br>
