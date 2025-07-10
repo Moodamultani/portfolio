@@ -29,7 +29,13 @@ This project focuses on applying supervised learning to predict student drop-out
 <a href= "https://github.com/Moodamultani/portfolio/tree/root/SupervisedLearning/supervised-learning-project-report.pdf" >Project report</a><br>
 </body>
 <br>
-<a href= "Topic Modelling" >4. Applying natural language programming (NLP) for topic modelling in a real-life context</a><br>
+<body>
+<h3>4. Applying NLP for topic modelling in a real-life context</h3>
+This project focuses on applying natural language programming (NLP) for topic modelling in a real-life context. It also includes sentiment analysis to find sentiments in the text datasets. <br><br>
+<a href= "https://github.com/Moodamultani/portfolio/tree/root/SupervisedLearning/supervised-learning-project.ipynb" >Jupyter Notebook</a><br> 
+<a href= "https://github.com/Moodamultani/portfolio/tree/root/SupervisedLearning/supervised-learning-project-report.pdf" >Project report</a><br>
+</body>
+
 <a href= "Time Series Analysis" >5. Using time series analysis for sales and demand forecasting</a><br>
 
 ### Employer Project with Bank of England
