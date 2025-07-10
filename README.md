@@ -24,7 +24,7 @@ This project focuses on applying segmentation techniques to a customer dataset.<
 <br>
 <body>
 <h3>3. Applying supervised learning to predict student dropout</h3>
-This project focuses on applying supervised learning to predict student drop-out in an academic instituion.
+This project focuses on applying supervised learning to predict student drop-out in an academic instituion. <br><br>
 <a href= "https://github.com/Moodamultani/portfolio/tree/root/SupervisedLearning/supervised-learning-project.ipynb" >Jupyter Notebook</a><br> 
 <a href= "https://github.com/Moodamultani/portfolio/tree/root/SupervisedLearning/supervised-learning-project-report.pdf" >Project report</a><br>
 </body>
