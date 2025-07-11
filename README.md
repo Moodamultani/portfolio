@@ -36,8 +36,13 @@ This project focuses on applying natural language programming (NLP) for topic mo
 <a href= "https://github.com/Moodamultani/portfolio/tree/root/SentimentAnalysis/sentiment-analysis-topic-modelling-report.pdf" >Project report</a><br>
 </body>
 <br>
-<a href= "Time Series Analysis" >5. Using time series analysis for sales and demand forecasting</a><br>
-
+<body>
+<h3>5. Using time series analysis for sales and demand forecasting</h3>
+This project focuses on forecasting sales of books using time series analysis techniques for Nielsen's BookScan dataset for two books. It uses classical ARIMA and SARIMA models and then uses deep learning techniques such as XGBoost and LSTM to perform time series analysis. Furthermore, it employs hybrid approach to obtain the best model and produces monthly sales prediction for the two books. <br><br>
+<a href= "https://github.com/Moodamultani/portfolio/tree/root/TimeSeries/time-series-project.ipynb" > Jupyter Notebook</a><br> 
+<a href= "https://github.com/Moodamultani/portfolio/tree/root/TimeSeries/time-series-project-report.pdf"> Project report</a><br>
+</body>
+<br>
 ### Employer Project with Bank of England
 <a href= "Extracting sentiment and risks from public financial documents" >AI-Driven Risk Insights from Public Financial Disclosures</a><br>
 
