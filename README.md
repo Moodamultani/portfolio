@@ -48,6 +48,9 @@ This project focuses on the textual datasets from quarterly earning calls of two
 
 
 ## Education
+Accelerator Course in Data Science and Machine Learning, Certificate (2024-25, University of Cambridge, UK)
+
+Advanced Classical Arabic Language, Certificate (2018, Al-Salam Institute, Oxford)
 
 Semantic Information Management, PhD (2016, University of the West of England, Bristol, UK)
 
@@ -57,7 +60,7 @@ Computing, PG Diploma (1991, CTC, Islamabad, Pakistan)
 
 Pure Mathematics, MSc (1989, Bahauddine Zakariya University, Multan, Pakistan) - Eqv UK BA
 
-### Work Experience
+## Work Experience
 Current: Machine Learning course from University of Cambridge Institute of Continuing Education (ICE), Data Science Accelerator 2024-25.
 
 Taught MSc IT module Strategy and Governance in IT at CSCT, UWE, Bristol, UK, 2024.
