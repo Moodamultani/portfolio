@@ -43,7 +43,7 @@ This project focuses on forecasting sales of books using time series analysis te
 <a href= "https://github.com/Moodamultani/portfolio/tree/root/TimeSeries/time-series-project-report.pdf"> Project report</a><br>
 </body>
 <br>
-<h3>5. The Bank of England Employer Project: AI-Driven Risk Insights from Public Financial Disclosures </h3>
+<h3>6. The Bank of England Employer Project: AI-Driven Risk Insights from Public Financial Disclosures </h3>
 This project focuses on the textual datasets from quarterly earning calls of two major global banks monitored by Bank of England (BOE). The objective was to identify potentially adverse financial circumstances in the duration of Q1 of year 2023 to Q1 of 2025 using state-of-the-art machine learning mechanisms. This included sentiment analysis, named entity recognition (NER), topic modelling, use of BERT transformers, LLMs and information summarisation and validation using Retrieval-Augmented Generation process (RAGs). <br><br>
 
 
