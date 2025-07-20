@@ -81,4 +81,11 @@ Teaching of postgraduate subjects of Systems Programming, Numerical Analysis and
 
 One-to-one Teaching of Mathematics (and later computer science) at GCSE, Advanced Levels and university students of programming, 1979-present.
 
-### Publications
+## Publications
+
+### Conference Papers
+
+1.	Ahmed S. M., Ahmad M., Asif M., Majid A., and Zafar H. M. F. (1995) Experiments in Character Recognition to Develop Tools For an Optical Character Recognition (OCR) System, Proc. of IEEE (Pak. section) 1st National Multi-Topic Conference, Rawalpindi, Pakistan, pp 63-70. <br>
+2.	Qureshi F. Z., Asif M., Ahmad M. and Rauf A. (1997) Development of an Off-Line Programming (OLP) System for a Serial Link Robot Manipulator, Proceedings of 2nd IEEE National Multi-Topic Conference INMIC’ 97, Islamabad, Pakistan, pp. 246-249. <br>
+3.	Rauf A., Osama M. and Farid T. B., Ahmad M. (1998) Design and Development of a Simulation System for a PUMA-Type Serial Link Robot Manipulator, Proceedings of 3rd IEEE National Multi-Topic Conference INMIC ’98, Lahore, Nov 20-21, 1998. <br>
+4.	Ahmad M. and Odeh M. (2012) Semantic Derivation of Enterprise Information Architecture from Business Process Architecture, Proceedings of 22nd International Conference on Computer Theory and Applications (ICCTA 2012), October 13 - 15, Alexandria, Egypt.<br>
