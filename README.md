@@ -17,32 +17,29 @@ This project focuses on the topic of Anomaly Detection in data science with an e
 <body>
 <h3> 2. Customer segmentation with clustering</h3>
 This project focuses on applying segmentation techniques to a customer dataset. Click
-<a href= "https://github.com/Moodamultani/portfolio/tree/root/projects/SegmentationTechniques/">here</a>for more details.
+<a href= "https://github.com/Moodamultani/portfolio/tree/root/projects/SegmentationTechniques/">here</a> for more details.
 </body>
 <br>
 <body>
 <h3>3. Applying supervised learning to predict student dropout</h3>
-This project focuses on applying supervised learning to predict student drop-out in an academic instituion. <br><br>
-<a href= "https://github.com/Moodamultani/portfolio/tree/root/SupervisedLearning/supervised-learning-project.ipynb" >Jupyter Notebook</a><br> 
-<a href= "https://github.com/Moodamultani/portfolio/tree/root/SupervisedLearning/supervised-learning-project-report.pdf" >Project report</a><br>
+This project focuses on applying supervised learning to predict student drop-out in an academic instituion. Here 
+<a href= "https://github.com/Moodamultani/portfolio/tree/root/projects/SupervisedLearning/" >is the link to this project.</a><br> 
 </body>
 <br>
 <body>
 <h3>4. Applying NLP for topic modelling in a real-life context</h3>
-This project focuses on applying natural language programming (NLP) for topic modelling in a real-life context. It also includes sentiment analysis to find sentiments in the text datasets containing client testimonials from two sources, and also applies a large language model (LLM) to provide actionable insights for negative sentiments when prompted. <br><br>
-<a href= "https://github.com/Moodamultani/portfolio/tree/root/SentimentAnalysis/sentiment-analysis-topic-modelling.ipynb" >Jupyter Notebook</a><br> 
-<a href= "https://github.com/Moodamultani/portfolio/tree/root/SentimentAnalysis/sentiment-analysis-topic-modelling-report.pdf" >Project report</a><br>
+This project focuses on applying natural language programming (NLP) for topic modelling in a real-life context. It also includes sentiment analysis to find sentiments in the text datasets containing client testimonials from two sources, and also applies a large language model (LLM) to provide actionable insights for negative sentiments when prompted. Click 
+<a href= "https://github.com/Moodamultani/portfolio/tree/root/projects/SentimentAnalysis/" >here for more details.</a><br> 
 </body>
 <br>
 <body>
 <h3>5. Using time series analysis for sales and demand forecasting</h3>
-This project focuses on forecasting sales of books using time series analysis techniques for Nielsen's BookScan dataset for two books. It uses classical ARIMA and SARIMA models and then uses deep learning techniques such as XGBoost and LSTM to perform time series analysis. Furthermore, it employs hybrid approach to obtain the best model and produces monthly sales prediction for the two books. <br><br>
-<a href= "https://github.com/Moodamultani/portfolio/tree/root/TimeSeries/time-series-project.ipynb" > Jupyter Notebook</a><br> 
-<a href= "https://github.com/Moodamultani/portfolio/tree/root/TimeSeries/time-series-project-report.pdf"> Project report</a><br>
+This project focuses on forecasting sales of books using time series analysis techniques for Nielsen's BookScan dataset for two books. It uses classical ARIMA and SARIMA models and then uses deep learning techniques such as XGBoost and LSTM to perform time series analysis. Furthermore, it employs hybrid approach to obtain the best model and produces monthly sales prediction for the two books. 
+<a href= "https://github.com/Moodamultani/portfolio/tree/root/projects/TimeSeries/" > Link</a>
 </body>
 <br>
 <h3>6. The Bank of England Employer Project: AI-Driven Risk Insights from Public Financial Disclosures </h3>
-This project focuses on the textual datasets from quarterly earning calls of two major global banks monitored by Bank of England (BOE). The objective was to identify potentially adverse financial circumstances in the duration of Q1 of year 2023 to Q1 of 2025 using state-of-the-art machine learning mechanisms. This included sentiment analysis, named entity recognition (NER), topic modelling, use of BERT transformers, LLMs and information summarisation and validation using Retrieval-Augmented Generation process (RAGs). <br><br>
+This project focuses on the textual datasets from quarterly earning calls of two major global banks monitored by Bank of England (BOE). The objective was to identify potentially adverse financial circumstances in the duration of Q1 of year 2023 to Q1 of 2025 using state-of-the-art machine learning mechanisms. This included sentiment analysis, named entity recognition (NER), topic modelling, use of BERT transformers, LLMs and information summarisation and validation using Retrieval-Augmented Generation process (RAGs).
 
 
 ## Education
