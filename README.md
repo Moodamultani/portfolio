@@ -11,8 +11,7 @@ Hi, I am an experienced software engineering researcher. My current interest is 
 <body>
 <h3>1. Detecting the anomalous activity of a ship’s engine</h3>
 This project focuses on the topic of Anomaly Detection in data science with an example dataset of a faulty ship engine.<br><br>
-<a href= "https://github.com/Moodamultani/portfolio/tree/root/AnomalyDetection/anomaly-detection-project.ipynb">Jupyter notebook</a><br>
-<a href= "https://github.com/Moodamultani/portfolio/tree/root/AnomalyDetection/anomaly-detection-project-report.pdf">Project report</a>
+<a href= "https://github.com/Moodamultani/portfolio/tree/root/projects/AnomalyDetection/">Project Link</a><br>
 </body>
 <br>
 <body>
