@@ -93,3 +93,6 @@ One-to-one Teaching of Mathematics (and later computer science) at GCSE, Advance
 6.	Ahmad M., Odeh M. and Green S (2018) Derivation of a Semantic Cancer Care Information Architecture from Riva-based Business Process Architecture using the BPAOntoEIA Framework, Proceeding of the 1st Cancer Care Informatics (CCI) Conference, November 19-21, Amman, Jordan, pp. 152-164. [IEEE indexed] <br><br>
 7.	Ahmad M., Odeh M. and Green S. (2018) Metrics for Assessing the Basic Alignment between Business Process and Enterprise Information Architectures with reference to the BPAOntoEIA Framework, Proceeding of the 19th International Arab Conference on Information Technology (ACIT’ 2018) Conference, December 3-5, Beirut, Lebanon, pp. 1-5. [IEEE indexed]. <br><br>
 
+### Book Chapter
+8.	Ahmad M. and Odeh M. (2014) Blueprint of a Semantic Business Process-aware Enterprise Information Architecture: The EIAOnt Ontology, In Eds: S. Hammoudi, L. Maciaszek, J. Cordiero, J. Dietz and J. Filipe. ICEIS 2013: Revised Selected Papers, pp. 520-539, Lecture Notes in Business Information Processing (LNBIP), Vol. 190, ISBN: 978-3-319-09491-5, Springer. <br><br>
+
